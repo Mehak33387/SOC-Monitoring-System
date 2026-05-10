@@ -29,7 +29,9 @@ The following dashboard was used to monitor logs and analyze security-related ev
 
 ## Screenshot
 
+VirtualBox_Ubuntu-SO_03_05_2026_23_18_30.png
 
+VirtualBox_Ubuntu-SO_03_05_2026_23_18_47.png
 
 ---
 
