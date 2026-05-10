@@ -32,7 +32,8 @@ The following dashboard was used to monitor logs and analyze security-related ev
 <img width="1360" height="654" alt="VirtualBox_Ubuntu-SO_03_05_2026_23_18_30" src="https://github.com/user-attachments/assets/c91116fa-9315-4208-8544-45daad188f2b" />
 
 
-VirtualBox_Ubuntu-SO_03_05_2026_23_18_47.png
+<img width="1360" height="654" alt="VirtualBox_Ubuntu-SO_03_05_2026_23_18_47" src="https://github.com/user-attachments/assets/a2483dd3-a6c4-41bc-917d-1396f6672401" />
+
 
 ---
 
