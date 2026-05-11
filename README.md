@@ -53,7 +53,7 @@ Performed basic log analysis using Splunk search queries to identify system acti
 
 <img width="1360" height="654" alt="VirtualBox_Ubuntu-SO_03_05_2026_15_15_26" src="https://github.com/user-attachments/assets/33da5a7a-6c45-4ec4-83f4-aeb593b0d173" />
 
-
+<img width="1360" height="654" alt="VirtualBox_Ubuntu-SO_03_05_2026_15_21_41" src="https://github.com/user-attachments/assets/beaddd18-7542-4929-b611-e2f28c962183" />
 
 
 ---
@@ -64,7 +64,7 @@ Monitored logs and observed event activity through Splunk dashboards to understa
 
 ## Screenshot
 
-[Insert Security Event Monitoring Screenshot Here]
+<img width="1360" height="654" alt="VirtualBox_Ubuntu-SO_04_05_2026_10_30_37" src="https://github.com/user-attachments/assets/d5ce34bb-9d2c-4f3e-ad53-4941528c868e" />
 
 ---
 
@@ -74,7 +74,7 @@ Configured a basic SOC monitoring setup using virtual machines and Splunk for ce
 
 ## Screenshot
 
-[Insert Lab Setup / VM Screenshot Here]
+<img width="1358" height="727" alt="Screenshot 2026-03-10 220053" src="https://github.com/user-attachments/assets/69d16acf-dab4-4813-84e3-c1e2863c43fa" />
 
 ---
 
